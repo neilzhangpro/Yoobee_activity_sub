@@ -2,11 +2,17 @@
 
 A minimal FastAPI backend that accepts CV uploads, runs a LangChain agent with RAG over the document, and returns structured feedback plus an exportable optimized CV (`.docx` or `.pdf`).
 
-<div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,langchain,langgraph,chromadb,openai,git,github,vscode&theme=dark&perline=9)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat-square&logo=chromadb&logoColor=white" height="20" alt="Chroma"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="20" alt="VS Code"/>
+</p>
 
 ## Features
 
