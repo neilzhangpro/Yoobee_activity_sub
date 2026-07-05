@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+python-docx
+pypdf
+reportlab
